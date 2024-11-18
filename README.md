@@ -9,3 +9,5 @@ A Discord tool inspired by [ValdemarKiddo](https://discord.gg/valdemar). Special
 
 ---
 More tools will be added as they are developed.
+
+Discord: https://discord.gg/6rNurTEKs7
